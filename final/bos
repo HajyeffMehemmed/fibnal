@@ -1,0 +1,847 @@
+<header>
+    <div class="header_shadow ">
+        <div class="header_continer">
+            <div class="logo">
+                <img src="headerLogo/Frame 12127.png" alt="Logo">
+            </div>
+            <!-- nav start -->
+            <nav>
+                <ul class="main_nav">
+                    <li><a class="before" href="#">Home</a></li>
+                    <li><a class="before" href="#">About Us</a></li>
+                    <li class="dropDown"><a class="before" href="#">Other Projects
+                            <i class="fa-solid fa-angle-down icn"></i>
+                        </a>
+                        <ul class="drop">
+                            <li> <a href="">About</a></li>
+                            <li> <a href="">for</a></li>
+                            <li> <a href="">ehmed</a></li>
+
+                        </ul>
+                    </li>
+
+                </ul>
+                <div>
+                    <button class="btn">Enquire Now</button>
+                </div>
+
+
+            </nav>
+            <!-- nav End -->
+        </div>
+        <!-- haeder_write_div_Start -->
+        <div class="header_write">
+            <p>Find Your <span>Dream Home </span>@ San Diego </p>
+        </div>
+        <!-- haeder_write_div_End -->
+        <!-- header_end_gradient_start -->
+        <div class="header_gradient">
+
+        </div>
+
+    </div>
+</header>
+////////
+<main>
+    6
+    <section>
+        <!-- header_bottom_containerStart -->
+
+
+        <!-- header_bottom_containerEnd -->
+        <div class="continer align">
+            <div class="buttons_container">
+                <button class="all button">All</button>
+                <button class="studio button">Studio</button>
+                <button class="bed1 button">1 Bed Room</button>
+                <button class="bed2 button">2 Bed Room</button>
+
+            </div>
+            <div class="filter">
+                <button class="btn">Filters</button>
+            </div>
+        </div>
+    </section>
+    <!-- header_sliders_Start -->
+    <div class="continer">
+        <div class="grid_continer">
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="./slider_fotos/Rectangle 2096.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <!-- <div class="grid_card">
+                <div class="slider_img"> -->
+                    <!-- <img src="./slider_fotos/Rectangle 2096.png" alt=""> -->
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p class="cc">100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="./slider_fotos/Rectangle 2096.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="./slider_fotos/Rectangle 2096.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="./slider_fotos/Rectangle 2096.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="./slider_fotos/Rectangle 2096.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- header_sliders_End -->
+    <div class="continer">
+        <h1>Neighborhood</h1>
+        <p>Other projects by us in different locations </p>
+        <div class="iframe_continer">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48313.75547509201!2d45.98414228344232!3d40.814569415991826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4040b04522772c19%3A0xe4f00d0f556b2e63!2s%C5%9Eemkir%2C%20Azerbaycan!5e0!3m2!1str!2s!4v1656959328435!5m2!1str!2s"
+                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+    <section>
+
+        <div class="footer_top_continer">
+            <div class="footer_top_writer_one">
+                <div>
+                    <h1 class="fotter_top_h1 fotter_top_h1_1">About Us</h1>
+                    <p>Dream Home is a gated community with a great location. Located downtown, you’re within walking
+                        distance
+                        of Parks, and the best shopping, dining and entertainment Getting around is a breeze, with easy
+                        access
+                        to freeways, buses and trolleys. . Laundry is available on premises.</p>
+                    <button class="btn">Read More</button>
+                </div>
+
+            </div>
+            <div class="footer_top_writer_two">
+                <div class="projects_continer">
+                    <h1 class="fotter_top_h1">500+</h1>
+                    <h5>Projects</h5>
+                    <p>Over 500 lexury villas for“Home Away From Home” experience</p>
+                </div>
+                <div class="projects_continer">
+                    <h1 class="fotter_top_h1">40+</h1>
+                    <h5>Locations</h5>
+                    <p>luxury villas and private holiday homes, from all across</p>
+                </div>
+                <div class="projects_continer">
+                    <h1 class="fotter_top_h1">24/7</h1>
+                    <h5>Help</h5>
+                    <p>24/7 Help service for all customers to guide and support</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="slider_tow_continer">
+            <div class="left_card"><img src="slider_fotos/Rectangle 2096.png" alt="">
+
+            </div>
+            <div class="center_card"><img src="slider_fotos/Rectangle 2096.png" alt="">
+
+                <div class="slider_writers">
+                    <h5>Estaing</h5>
+                    <p>France</p>
+                </div>
+                <div class="spans_continer">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+            </div>
+            <div class="right_card"><img src="slider_fotos/Rectangle 2096.png" alt=""></div>
+        </div>
+    </section>
+    <section>
+        <div class="dream_reg_continer">
+            <div class="DreamHome">
+                <h3>Did You Find Your <span>Dream Home?</span></h3>
+                <p>Thank you for getting in touch! if you find your dream home connect with us</p>
+            </div>
+            <div class="register_continer">
+
+                <div class="reg_inputs_continer">
+                    <input type="text" placeholder="Your Name">
+                    <input type="email" placeholder="Your Email">
+                </div>
+                <div class="reg_inputs_continer">
+                    <input type="number" placeholder="Phone Number">
+                    <input type="" placeholder="Interested in">
+                </div>
+                <div class="reg_inputs_continer for">
+                    <input type="text" placeholder="Message">
+                </div>
+                <button class="btn forr">submit
+                </button>
+            </div>
+        </div>
+    </section>
+</main>
+//////////
+<footer>
+    <div class="footer_continer">
+        <div class="footer_logo">
+            <img src="footer_logo/Frame 12128.png" alt="">
+            <p>Dream Home is a gated community with a great location. Located downtown, you’re within walking distance of
+                Parks, and the <a href="">...View More</a></p>
+        </div>
+        <div> 
+            <h4>Contact Us</h4>
+            <p>Deam home villas San Diego, CA, USA</p>
+            <p>025-777-3067</p>
+            <p>info@dreamhome.com</p>
+        </div>
+        <div>
+            <h4 class="for_h4">Follow Us </h4>
+            <div class="footer_icons">
+                <img src="icons_fotos/Group 12466.png" alt="">
+                <img src="icons_fotos/Group 12468.png" alt="">
+                <img src="icons_fotos/Group 12467.png" alt="">    
+            </div>
+            <div class="select_continer">
+                <select name="lan" id="">
+                    <option value="en">en</option>
+                </select>
+               </div>
+        </div>
+      
+    </div>
+  
+</footer>
+//////////////////////////////
+    <!-- <div class="slider_img">
+                    <img src="slider_fotos/img1.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="slider_fotos/img2.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p class="cc">100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="slider_fotos/img3.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="slider_fotos/img4.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="slider_fotos/img5.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="grid_card">
+                <div class="slider_img">
+                    <img src="slider_fotos/img3.png" alt="">
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+
+            </div>
+              <!--header_sliders End-->
+    <!-- <div class="grid_container">
+        <div class="grid_card">
+            <div class="slider_container" id="mmm">
+                <div class="slider_card">
+                    <img src="slider_fotos/img1.png" alt="">
+
+                </div>
+                <div class="slider_card">
+                    <img src="slider_fotos/img2.png" alt="">
+
+                </div>
+                <div class="slider_card">
+                    <img src="slider_fotos/img3.png" alt="">
+
+                </div>
+                <div class="slider_card">
+                    <img src="" alt="">
+
+                </div>
+            </div>
+        </div> -->
+        .slider_container{
+            display: flex;
+            overflow: hidden;
+            height: 500px;
+            width: 100%;
+            background-color: black; 
+        }//////////////////////////////
+        <div class="grid_container">
+            <div class="grid_card">
+                <div class="slider_container" id="sliderContainerTwo">
+    
+    
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+    
+            </div>
+    
+        </div>
+        <div class="grid_container">
+            <div class="grid_card">
+                <div class="slider_container" id="sliderContainerThree">
+    
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+    
+            </div>
+    
+        </div>
+        <div class="grid_container">
+            <div class="grid_card">
+                <div class="slider_container" id="sliderContainerFour">
+    
+    
+                    <div class="slider_icon">
+                        <div class="left_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M12.3547 24L13.6063 22.7525L2.88883 12L13.6063 1.2475L12.3547 0L0.393799 12L12.3547 24Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                        <div class="right_icon">
+                            <svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M1.6453 0L0.393702 1.24749L11.1112 12L0.393702 22.7525L1.6453 24L13.6062 12L1.6453 0Z"
+                                    fill="#FFFBFB" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="slider_content">
+                    <div class="slider_one_content">
+                        <p>100.000 $</p>
+                        <button class="btn">View Details</button>
+                    </div>
+                    <div class="slider_buttons_container">
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                        <button>1 Bedrooms</button>
+                    </div>
+                </div>
+    
+            </div>
+        </div>
+        //////////////
+        <div class="dream_reg_continer">
+            <div class="DreamHome card">
+                <h3>Did You Find Your <span>Dream Home?</span></h3>
+                <p>Thank you for getting in touch! if you find your dream home connect with us</p>
+            </div>
+            <div class="register_continer card">
+
+                <div class="reg_inputs_continer">
+                    <input type="text" placeholder="Your Name">
+                    <input type="email" placeholder="Your Email">
+                </div>
+                <div class="reg_inputs_continer">
+                    <input type="number" placeholder="Phone Number">
+                    <input type="" placeholder="Interested in">
+                </div>
+                <div class="reg_inputs_continer for">
+                    <input type="text" placeholder="Message">
+                </div>
+                <button class="btn forr">submit
+                </button>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        /////////////
+        <div class="footer_top_continer">
+            <div class="footer_top_writer_one">
+                <div>
+                    <h1 class="fotter_top_h1 fotter_top_h1_1">About Us</h1>
+                    <p>Dream Home is a gated community with a great location. Located downtown, you’re within walking
+                        distance
+                        of Parks, and the best shopping, dining and entertainment Getting around is a breeze, with easy
+                        access
+                        to freeways, buses and trolleys. . Laundry is available on premises.</p>
+                    <button class="btn">Read More</button>
+                </div>
+
+            </div>
+            <div class="footer_top_writer_two">
+                <div class="projects_continer">
+                    <h1 class="fotter_top_h1">500+</h1>
+                    <h5>Projects</h5>
+                    <p>Over 500 lexury villas for“Home Away From Home” experience</p>
+                </div>
+                <div class="projects_continer">
+                    <h1 class="fotter_top_h1">40+</h1>
+                    <h5>Locations</h5>
+                    <p>luxury villas and private holiday homes, from all across</p>
+                </div>
+                <div class="projects_continer">
+                    <h1 class="fotter_top_h1">24/7</h1>
+                    <h5>Help</h5>
+                    <p>24/7 Help service for all customers to guide and support</p>
+                </div>
+            </div>
+        </div>
+        ////////////////
+      
+    </div>
+    ////////////////////////
+    <div class="firame_bottom_card">
+       
+
+
+        

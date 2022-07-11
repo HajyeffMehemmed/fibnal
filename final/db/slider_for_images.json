@@ -1,0 +1,20 @@
+[   
+ {
+        "id":"1",
+        "foto":"./apfto/img1.png",
+        "title":"1 Bedrooms"
+    },
+    {
+        "id":"2",
+        "foto":"./apfto/img2.png",
+        "title":"1Bath",
+        "icn":"./apfto/icn.png"
+    },
+      {
+        "id":"3",
+        "foto":"./apfto/img3.png",
+        "title":" 535 sq ft"
+    }
+   
+]
+
